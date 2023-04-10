@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.vscode"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRO-C42-V2-Template-main"
+	}
+}
